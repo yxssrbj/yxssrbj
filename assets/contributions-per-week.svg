@@ -10,13 +10,13 @@
 <path d="M72 326.0 H932" stroke="#eaeef2" stroke-width="1"/>
 <text x="62" y="330.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">0</text>
 <path d="M72 261.0 H932" stroke="#eaeef2" stroke-width="1"/>
-<text x="62" y="265.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">26</text>
+<text x="62" y="265.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">36</text>
 <path d="M72 196.0 H932" stroke="#eaeef2" stroke-width="1"/>
-<text x="62" y="200.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">51</text>
+<text x="62" y="200.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">72</text>
 <path d="M72 131.0 H932" stroke="#eaeef2" stroke-width="1"/>
-<text x="62" y="135.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">76</text>
+<text x="62" y="135.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">109</text>
 <path d="M72 66.0 H932" stroke="#eaeef2" stroke-width="1"/>
-<text x="62" y="70.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">102</text>
+<text x="62" y="70.0" text-anchor="end" fill="#57606a" font-family="Arial,sans-serif" font-size="12">145</text>
 <rect class="bar" x="74.6" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2025-11-09: 0 contributions</title></rect>
 <text x="74.6" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Nov</text>
 <rect class="bar" x="90.8" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2025-11-16: 0 contributions</title></rect>
@@ -26,7 +26,7 @@
 <text x="139.5" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Dec</text>
 <rect class="bar" x="155.7" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2025-12-14: 0 contributions</title></rect>
 <rect class="bar" x="172.0" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2025-12-21: 0 contributions</title></rect>
-<rect class="bar" x="188.2" y="323.5" width="11.0" height="2.5" rx="1.5" fill="#40c463"><title>Week of 2025-12-28: 1 contributions</title></rect>
+<rect class="bar" x="188.2" y="324.2" width="11.0" height="1.8" rx="1.5" fill="#40c463"><title>Week of 2025-12-28: 1 contributions</title></rect>
 <rect class="bar" x="204.4" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-01-04: 0 contributions</title></rect>
 <text x="204.4" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Jan</text>
 <rect class="bar" x="220.6" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-01-11: 0 contributions</title></rect>
@@ -34,10 +34,10 @@
 <rect class="bar" x="253.1" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-01-25: 0 contributions</title></rect>
 <rect class="bar" x="269.3" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-02-01: 0 contributions</title></rect>
 <text x="269.3" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Feb</text>
-<rect class="bar" x="285.5" y="305.6" width="11.0" height="20.4" rx="1.5" fill="#40c463"><title>Week of 2026-02-08: 8 contributions</title></rect>
-<rect class="bar" x="301.8" y="318.4" width="11.0" height="7.6" rx="1.5" fill="#40c463"><title>Week of 2026-02-15: 3 contributions</title></rect>
+<rect class="bar" x="285.5" y="311.7" width="11.0" height="14.3" rx="1.5" fill="#40c463"><title>Week of 2026-02-08: 8 contributions</title></rect>
+<rect class="bar" x="301.8" y="320.6" width="11.0" height="5.4" rx="1.5" fill="#40c463"><title>Week of 2026-02-15: 3 contributions</title></rect>
 <rect class="bar" x="318.0" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-02-22: 0 contributions</title></rect>
-<rect class="bar" x="334.2" y="318.4" width="11.0" height="7.6" rx="1.5" fill="#40c463"><title>Week of 2026-03-01: 3 contributions</title></rect>
+<rect class="bar" x="334.2" y="320.6" width="11.0" height="5.4" rx="1.5" fill="#40c463"><title>Week of 2026-03-01: 3 contributions</title></rect>
 <text x="334.2" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Mar</text>
 <rect class="bar" x="350.4" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-03-08: 0 contributions</title></rect>
 <rect class="bar" x="366.7" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-03-15: 0 contributions</title></rect>
@@ -48,7 +48,7 @@
 <rect class="bar" x="431.6" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-04-12: 0 contributions</title></rect>
 <rect class="bar" x="447.8" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-04-19: 0 contributions</title></rect>
 <rect class="bar" x="464.0" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-04-26: 0 contributions</title></rect>
-<rect class="bar" x="480.3" y="315.8" width="11.0" height="10.2" rx="1.5" fill="#40c463"><title>Week of 2026-05-03: 4 contributions</title></rect>
+<rect class="bar" x="480.3" y="318.8" width="11.0" height="7.2" rx="1.5" fill="#40c463"><title>Week of 2026-05-03: 4 contributions</title></rect>
 <text x="480.3" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">May</text>
 <rect class="bar" x="496.5" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-05-10: 0 contributions</title></rect>
 <rect class="bar" x="512.7" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-05-17: 0 contributions</title></rect>
@@ -58,30 +58,30 @@
 <text x="561.4" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Jun</text>
 <rect class="bar" x="577.6" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-06-14: 0 contributions</title></rect>
 <rect class="bar" x="593.8" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-06-21: 0 contributions</title></rect>
-<rect class="bar" x="610.1" y="310.7" width="11.0" height="15.3" rx="1.5" fill="#40c463"><title>Week of 2026-06-28: 6 contributions</title></rect>
-<rect class="bar" x="626.3" y="315.8" width="11.0" height="10.2" rx="1.5" fill="#40c463"><title>Week of 2026-07-05: 4 contributions</title></rect>
+<rect class="bar" x="610.1" y="315.2" width="11.0" height="10.8" rx="1.5" fill="#40c463"><title>Week of 2026-06-28: 6 contributions</title></rect>
+<rect class="bar" x="626.3" y="318.8" width="11.0" height="7.2" rx="1.5" fill="#40c463"><title>Week of 2026-07-05: 4 contributions</title></rect>
 <text x="626.3" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Jul</text>
-<rect class="bar" x="642.5" y="285.2" width="11.0" height="40.8" rx="1.5" fill="#40c463"><title>Week of 2026-07-12: 16 contributions</title></rect>
-<rect class="bar" x="658.7" y="323.5" width="11.0" height="2.5" rx="1.5" fill="#40c463"><title>Week of 2026-07-19: 1 contributions</title></rect>
-<rect class="bar" x="675.0" y="292.9" width="11.0" height="33.1" rx="1.5" fill="#40c463"><title>Week of 2026-07-26: 13 contributions</title></rect>
-<rect class="bar" x="691.2" y="318.4" width="11.0" height="7.6" rx="1.5" fill="#40c463"><title>Week of 2026-08-02: 3 contributions</title></rect>
+<rect class="bar" x="642.5" y="297.3" width="11.0" height="28.7" rx="1.5" fill="#40c463"><title>Week of 2026-07-12: 16 contributions</title></rect>
+<rect class="bar" x="658.7" y="324.2" width="11.0" height="1.8" rx="1.5" fill="#40c463"><title>Week of 2026-07-19: 1 contributions</title></rect>
+<rect class="bar" x="675.0" y="302.7" width="11.0" height="23.3" rx="1.5" fill="#40c463"><title>Week of 2026-07-26: 13 contributions</title></rect>
+<rect class="bar" x="691.2" y="320.6" width="11.0" height="5.4" rx="1.5" fill="#40c463"><title>Week of 2026-08-02: 3 contributions</title></rect>
 <text x="691.2" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Aug</text>
-<rect class="bar" x="707.4" y="310.7" width="11.0" height="15.3" rx="1.5" fill="#40c463"><title>Week of 2026-08-09: 6 contributions</title></rect>
+<rect class="bar" x="707.4" y="315.2" width="11.0" height="10.8" rx="1.5" fill="#40c463"><title>Week of 2026-08-09: 6 contributions</title></rect>
 <rect class="bar" x="723.7" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-08-16: 0 contributions</title></rect>
 <rect class="bar" x="739.9" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-08-23: 0 contributions</title></rect>
 <rect class="bar" x="756.1" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-08-30: 0 contributions</title></rect>
 <rect class="bar" x="772.3" y="326.0" width="11.0" height="0.0" rx="1.5" fill="#40c463"><title>Week of 2026-09-06: 0 contributions</title></rect>
 <text x="772.3" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Sep</text>
-<rect class="bar" x="788.6" y="313.3" width="11.0" height="12.7" rx="1.5" fill="#40c463"><title>Week of 2026-09-13: 5 contributions</title></rect>
-<rect class="bar" x="804.8" y="303.1" width="11.0" height="22.9" rx="1.5" fill="#40c463"><title>Week of 2026-09-20: 9 contributions</title></rect>
-<rect class="bar" x="821.0" y="318.4" width="11.0" height="7.6" rx="1.5" fill="#40c463"><title>Week of 2026-09-27: 3 contributions</title></rect>
-<rect class="bar" x="837.2" y="318.4" width="11.0" height="7.6" rx="1.5" fill="#40c463"><title>Week of 2026-10-04: 3 contributions</title></rect>
+<rect class="bar" x="788.6" y="317.0" width="11.0" height="9.0" rx="1.5" fill="#40c463"><title>Week of 2026-09-13: 5 contributions</title></rect>
+<rect class="bar" x="804.8" y="309.9" width="11.0" height="16.1" rx="1.5" fill="#40c463"><title>Week of 2026-09-20: 9 contributions</title></rect>
+<rect class="bar" x="821.0" y="320.6" width="11.0" height="5.4" rx="1.5" fill="#40c463"><title>Week of 2026-09-27: 3 contributions</title></rect>
+<rect class="bar" x="837.2" y="320.6" width="11.0" height="5.4" rx="1.5" fill="#40c463"><title>Week of 2026-10-04: 3 contributions</title></rect>
 <text x="837.2" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Oct</text>
-<rect class="bar" x="853.5" y="290.3" width="11.0" height="35.7" rx="1.5" fill="#40c463"><title>Week of 2026-10-11: 14 contributions</title></rect>
-<rect class="bar" x="869.7" y="170.5" width="11.0" height="155.5" rx="1.5" fill="#40c463"><title>Week of 2026-10-18: 61 contributions</title></rect>
-<rect class="bar" x="885.9" y="71.1" width="11.0" height="254.9" rx="1.5" fill="#40c463"><title>Week of 2026-10-25: 100 contributions</title></rect>
-<rect class="bar" x="902.1" y="91.5" width="11.0" height="234.5" rx="1.5" fill="#40c463"><title>Week of 2026-11-01: 92 contributions</title></rect>
+<rect class="bar" x="853.5" y="300.9" width="11.0" height="25.1" rx="1.5" fill="#40c463"><title>Week of 2026-10-11: 14 contributions</title></rect>
+<rect class="bar" x="869.7" y="216.6" width="11.0" height="109.4" rx="1.5" fill="#40c463"><title>Week of 2026-10-18: 61 contributions</title></rect>
+<rect class="bar" x="885.9" y="146.7" width="11.0" height="179.3" rx="1.5" fill="#40c463"><title>Week of 2026-10-25: 100 contributions</title></rect>
+<rect class="bar" x="902.1" y="161.0" width="11.0" height="165.0" rx="1.5" fill="#40c463"><title>Week of 2026-11-01: 92 contributions</title></rect>
 <text x="902.1" y="360" fill="#57606a" font-family="Arial,sans-serif" font-size="12">Nov</text>
-<rect class="bar" x="918.4" y="66.0" width="11.0" height="260.0" rx="1.5" fill="#40c463"><title>Week of 2026-11-08: 102 contributions</title></rect>
-<path class="trend" d="M80.1 326.0 L96.3 326.0 L112.6 326.0 L128.8 326.0 L145.0 326.0 L161.2 326.0 L177.5 326.0 L193.7 325.4 L209.9 325.4 L226.2 325.4 L242.4 325.4 L258.6 326.0 L274.8 326.0 L291.1 320.9 L307.3 319.0 L323.5 319.0 L339.7 317.1 L356.0 322.2 L372.2 324.1 L388.4 324.1 L404.6 326.0 L420.9 326.0 L437.1 326.0 L453.3 326.0 L469.5 326.0 L485.8 323.5 L502.0 323.5 L518.2 323.5 L534.5 323.5 L550.7 326.0 L566.9 326.0 L583.1 326.0 L599.4 326.0 L615.6 322.2 L631.8 319.6 L648.0 309.4 L664.3 308.8 L680.5 304.3 L696.7 305.0 L712.9 311.3 L729.2 312.0 L745.4 320.3 L761.6 322.2 L777.8 326.0 L794.1 322.8 L810.3 317.1 L826.5 315.2 L842.8 313.3 L859.0 307.5 L875.2 274.4 L891.4 212.6 L907.7 155.9 L923.9 99.8" stroke="#116329" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+<rect class="bar" x="918.4" y="66.0" width="11.0" height="260.0" rx="1.5" fill="#40c463"><title>Week of 2026-11-08: 145 contributions</title></rect>
+<path class="trend" d="M80.1 326.0 L96.3 326.0 L112.6 326.0 L128.8 326.0 L145.0 326.0 L161.2 326.0 L177.5 326.0 L193.7 325.6 L209.9 325.6 L226.2 325.6 L242.4 325.6 L258.6 326.0 L274.8 326.0 L291.1 322.4 L307.3 321.1 L323.5 321.1 L339.7 319.7 L356.0 323.3 L372.2 324.7 L388.4 324.7 L404.6 326.0 L420.9 326.0 L437.1 326.0 L453.3 326.0 L469.5 326.0 L485.8 324.2 L502.0 324.2 L518.2 324.2 L534.5 324.2 L550.7 326.0 L566.9 326.0 L583.1 326.0 L599.4 326.0 L615.6 323.3 L631.8 321.5 L648.0 314.3 L664.3 313.9 L680.5 310.8 L696.7 311.2 L712.9 315.7 L729.2 316.1 L745.4 322.0 L761.6 323.3 L777.8 326.0 L794.1 323.8 L810.3 319.7 L826.5 318.4 L842.8 317.0 L859.0 313.0 L875.2 289.7 L891.4 246.2 L907.7 206.3 L923.9 147.6" stroke="#116329" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
 </svg>
